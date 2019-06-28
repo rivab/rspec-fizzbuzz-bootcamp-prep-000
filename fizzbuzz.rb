@@ -2,4 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizbuzz(number)
+  if(number%3==0)
+    
+  end
 end
